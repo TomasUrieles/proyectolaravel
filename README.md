@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Información del Estudiante
 
-![Foto de perfil](./Tomas%20Urieles%20foto.jpeg)
+<img src="/Tomas Urieles foto.jpeg" width="200" />
 
 **Nombre:** Tomas Urieles  
 **ID:** U00177875  
